@@ -9,8 +9,8 @@ and I am beginning with Github,which is a repository, allowing different contrib
 My hobbies are : Watching TV Series and MOvies, I believe I have repository of my own in this department in my head.
 
 
-
-•  Project title and description
+Instructions:
+ •  Project title and description
  •  Prerequisites for getting the project running on your local machine
  •  Instructions on installing the project (and any dependencies)
  •  Instructions on running tests to make sure that you haven't broken anything
@@ -20,3 +20,6 @@ My hobbies are : Watching TV Series and MOvies, I believe I have repository of m
  •  The main authors or maintainers of the project
  •  A link to the license
  •  Any additional acknowledgements
+
+Favourite Book
+  > Metamorphisis Franz Kafka 
