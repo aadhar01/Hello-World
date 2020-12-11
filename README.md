@@ -1,6 +1,6 @@
 # Hello-World
 Just beginning with Github, So Hello World
-![RamDarbar] (Ram_Darbar.jpeg)
+![RamDarbar] (Ram_Darbar.jpg)
 I am an enthusiast, who tries to indulge in new and exciting technology, now i am focussing to improve my skills and get into Advance AL and ML,
 and I am beginning with Github,which is a repository, allowing different contributers to contribute to the project and commit it.
 
