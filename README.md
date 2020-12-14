@@ -23,3 +23,9 @@ Instructions:
 
 Favourite Book
   > Metamorphisis Franz Kafka 
+
+
+Resource:
+https://github.com/desktop/desktop
+https://lab.github.com/githubtraining/reviewing-pull-requests
+https://github.com/sarah-wecan/sarah-wecan.github.io
